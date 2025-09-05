@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodion Vishnyakov</title>
+    <link>https://rsvishnyakov.github.io/en/</link>
+      <atom:link href="https://rsvishnyakov.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rodion Vishnyakov</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rsvishnyakov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Rodion Vishnyakov</title>
+      <link>https://rsvishnyakov.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://rsvishnyakov.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 5</title>
+      <link>https://rsvishnyakov.github.io/en/post/05/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-1723&#34;&gt;📅 Week of June 17–23&lt;/h2&gt;
+&lt;p&gt;Final week of the academic year. Time to sum things up:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 All grades are in: “excellent” in programming and math, “good” in logic. Very satisfied!&lt;/li&gt;
+&lt;li&gt;✍️ Took short notes for each subject to preserve the structure of knowledge.&lt;/li&gt;
+&lt;li&gt;🧹 Cleaned up my folders and organized all study materials.&lt;/li&gt;
+&lt;li&gt;💡 Started planning the summer: aiming to dive deeper into Python and improve my SQL and data analysis skills.&lt;/li&gt;
+&lt;li&gt;☀️ A bit of rest — walks, books, and recharging for the next semester!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Personal Academic Website with Hugo Academic</title>
+      <link>https://rsvishnyakov.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;why-do-researchers-need-a-personal-website&#34;&gt;Why Do Researchers Need a Personal Website?&lt;/h2&gt;
+&lt;p&gt;In today’s academic world, &lt;strong&gt;digital presence&lt;/strong&gt; is becoming an essential part of a researcher&amp;rsquo;s career. A personal website helps you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Present yourself and your research to the world&lt;/li&gt;
+&lt;li&gt;🔬 Organize your publications, projects, and achievements&lt;/li&gt;
+&lt;li&gt;🌐 Provide open access to materials, articles, and presentations&lt;/li&gt;
+&lt;li&gt;🧑‍🔬 Showcase academic activity and research interests&lt;/li&gt;
+&lt;li&gt;🎯 Facilitate contact with colleagues, students, and grant agencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s not just an academic portfolio — it&amp;rsquo;s a strategic tool for online visibility and career growth.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-hugo-academic&#34;&gt;Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is a modern framework for building academic websites based on the Hugo static site generator. Its key advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Speed&lt;/strong&gt;: generates your site in seconds, easily deployable to GitHub Pages, Netlify, etc.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Flexibility&lt;/strong&gt;: site structure can be adapted to publications, courses, events, projects, and blogging&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Academic Focus&lt;/strong&gt;: built-in support for BibTeX, publication filters, visual CVs, and achievements&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Beautiful and responsive design&lt;/strong&gt; out of the box&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Low maintenance&lt;/strong&gt;: no server-side dependencies, secure, and version-controlled via Git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unlike heavy CMSs like WordPress, Academic is lightweight, secure, and easy to maintain.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-sections-of-the-website&#34;&gt;Key Sections of the Website&lt;/h2&gt;
+&lt;p&gt;A typical academic website built with Hugo Academic includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home page&lt;/strong&gt;: brief intro, status, photo, and contact info&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biography&lt;/strong&gt;: education, research interests, ongoing projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: articles list with filtering and export options&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: courses, seminars, lecture notes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: research and grant initiatives&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;: notes, commentary, announcements, collaborations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact and Social&lt;/strong&gt;: email, ORCID, GitHub, Google Scholar, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All these sections are customizable and can be styled either classically or with modern design.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-do-you-need-to-get-started&#34;&gt;What Do You Need to Get Started?&lt;/h2&gt;
+&lt;p&gt;To create your Hugo Academic site, you’ll need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;A GitHub account&lt;/strong&gt; — to store and version your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A code editor&lt;/strong&gt; — e.g., VS Code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugo installed&lt;/strong&gt; — along with the Academic template&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content written&lt;/strong&gt; in Markdown and YAML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A hosting platform&lt;/strong&gt; — like GitHub Pages or Netlify (both free)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Academic offers starter templates to launch quickly — you can set up your site in a few hours and use it as your academic journal or portfolio.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;who-is-it-for&#34;&gt;Who Is It For?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Students, master’s, and PhD candidates&lt;/strong&gt;: a site helps you stand out when applying for internships, grants, or international programs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Young educators and researchers&lt;/strong&gt;: a place for sharing courses, project proposals, publications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Established academics&lt;/strong&gt;: digitize your paper-based portfolio and share insights through a blog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A well-maintained, up-to-date website sends a strong message: you’re open to collaboration and take your academic identity seriously.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating a personal academic website is more than a trend — it’s a tool for self-definition and growth. With &lt;strong&gt;Hugo Academic&lt;/strong&gt;, you get a powerful, lightweight, and flexible platform to share your scientific work with the world.&lt;/p&gt;
+&lt;p&gt;Don’t wait — build your academic site today and take control of your digital scholarly presence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 4</title>
+      <link>https://rsvishnyakov.github.io/en/post/04/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-1016&#34;&gt;📅 Week of June 10–16&lt;/h2&gt;
+&lt;p&gt;🔥 Peak of the exam session — three exams in one week!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: The exam went smoothly. It included problems on integrals, series, and function behavior analysis. All the preparation paid off!&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;Programming&lt;/strong&gt;: The exam was in the form of a design task — we had to build a mini-CRM with filtering and sorting capabilities. I used structures and pointers.&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Mathematical Logic&lt;/strong&gt;: A tough exam with problems on proofs and logical calculi. It required not only knowledge but also quick thinking.&lt;/li&gt;
+&lt;li&gt;🧘 &lt;strong&gt;Physical Education&lt;/strong&gt;: No classes this week, but light activities like park runs and stretching between exams really helped to reduce stress.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 3</title>
+      <link>https://rsvishnyakov.github.io/en/post/03/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-39&#34;&gt;📅 Week of June 3–9&lt;/h2&gt;
+&lt;p&gt;Final exam season is approaching — time to wrap up the main topics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Programming&lt;/strong&gt;: Completed a lab on working with files and data structures. The submission was done on a computer using VS Code and the terminal.&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: Took a mock exam — problems on integrals, substitution method, and integration by parts. Reviewing mistakes and refreshing the theory.&lt;/li&gt;
+&lt;li&gt;🔍 &lt;strong&gt;Logic&lt;/strong&gt;: Studying predicate calculus and quantifiers. The material is complex but very structured. Started using LaTeX to format solutions.&lt;/li&gt;
+&lt;li&gt;🏋️ &lt;strong&gt;Physical Education&lt;/strong&gt;: Last week of training. Passed the final test: a set of agility exercises and a timed run. Final grade — ✔️&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Organize a Student Project</title>
+      <link>https://rsvishnyakov.github.io/en/publication/05/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-why-are-student-projects-important&#34;&gt;🎯 Why Are Student Projects Important?&lt;/h2&gt;
+&lt;p&gt;Project work is a key part of the learning process. Unlike theoretical tasks, it requires independent thinking, planning, and working under real-world constraints. Projects help you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;solve non-standard problems;&lt;/li&gt;
+&lt;li&gt;collaborate as a team;&lt;/li&gt;
+&lt;li&gt;research and apply knowledge from different fields;&lt;/li&gt;
+&lt;li&gt;manage time and priorities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A project is not just another grade. It’s your chance to demonstrate what you’re truly capable of.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-to-start&#34;&gt;🧭 Where to Start?&lt;/h2&gt;
+&lt;h3 id=&#34;1-understand-the-assignment&#34;&gt;1. &lt;strong&gt;Understand the Assignment&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Read the project description carefully. Clarify:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;what the objective is;&lt;/li&gt;
+&lt;li&gt;what limitations apply;&lt;/li&gt;
+&lt;li&gt;what results are expected;&lt;/li&gt;
+&lt;li&gt;deadlines and grading criteria.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don’t hesitate to ask your instructor questions. It’s better to spend 10 minutes clarifying things than to redo 10 hours of work later.&lt;/p&gt;
+&lt;h3 id=&#34;2-assign-roles&#34;&gt;2. &lt;strong&gt;Assign Roles&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;If working in a team, clearly define responsibilities. Who is in charge of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;technical implementation?&lt;/li&gt;
+&lt;li&gt;documentation?&lt;/li&gt;
+&lt;li&gt;the report and presentation?&lt;/li&gt;
+&lt;li&gt;communicating with the instructor?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Clear role assignment helps avoid confusion.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-plan-it&#34;&gt;📆 How to Plan It?&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-simple-roadmap&#34;&gt;Create a simple roadmap:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Break the project into phases (research, development, testing, documentation).&lt;/li&gt;
+&lt;li&gt;Set key milestones (e.g., “report draft ready”, “prototype completed”).&lt;/li&gt;
+&lt;li&gt;Assign deadlines to each stage — and add some buffer time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use task boards (Trello, Notion, ClickUp) or just Google Sheets. The main thing is to &lt;strong&gt;visualize your progress&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-execution-tips&#34;&gt;🧠 Execution Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Start with an MVP&lt;/strong&gt; — a minimum viable product. You can refine it later.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Don’t aim for perfection&lt;/strong&gt; from the first try — focus on functionality first.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Document every step&lt;/strong&gt; — it will help with writing the report and presenting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Check for requirement compliance&lt;/strong&gt; — your project may be evaluated via a checklist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-project-presentation&#34;&gt;📣 Project Presentation&lt;/h2&gt;
+&lt;p&gt;A good defense is half the success. Remember:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on the essentials: the goal, your solution, and the outcome.&lt;/li&gt;
+&lt;li&gt;Show, don’t just tell: use visuals, demos, or a prototype.&lt;/li&gt;
+&lt;li&gt;Highlight the difficulties and how you solved them.&lt;/li&gt;
+&lt;li&gt;End with takeaways: what you learned and future improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;A student project is &lt;strong&gt;not just an assignment — it&amp;rsquo;s training for real-life skills&lt;/strong&gt;. The ability to structure, delegate, document, and defend your work is often more valuable than memorized definitions.&lt;/p&gt;
+&lt;p&gt;Approach the project with intention — and it will become a meaningful step forward in your studies and future career.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://rsvishnyakov.github.io/en/publication/04/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-is-scientific-programming&#34;&gt;🔬 What Is Scientific Programming?&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a field where code is used to solve &lt;strong&gt;research, engineering, and mathematical problems&lt;/strong&gt;. The focus is not on user interfaces or web development, but rather on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;numerical computations and modeling&lt;/li&gt;
+&lt;li&gt;data processing and visualization&lt;/li&gt;
+&lt;li&gt;simulation of physical processes&lt;/li&gt;
+&lt;li&gt;implementation of analysis and optimization algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This requires languages that can &lt;strong&gt;efficiently handle mathematics, matrices, and large datasets&lt;/strong&gt;, while being flexible enough for rapid development.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-features-of-scientific-programming-languages&#34;&gt;🧪 Features of Scientific Programming Languages&lt;/h2&gt;
+&lt;p&gt;A good language for scientific tasks should have the following qualities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Support for vector and matrix operations&lt;/li&gt;
+&lt;li&gt;🧮 Libraries for numerical methods and linear algebra&lt;/li&gt;
+&lt;li&gt;⚙️ Integration with visualization, modeling, and plotting tools&lt;/li&gt;
+&lt;li&gt;🚀 Performance when working with large data sets&lt;/li&gt;
+&lt;li&gt;🔁 Simplicity in scripting experiments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-scientific-programming-languages&#34;&gt;🧰 Popular Scientific Programming Languages&lt;/h2&gt;
+&lt;h3 id=&#34;1-python&#34;&gt;1. &lt;strong&gt;Python&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The most popular language in scientific communities&lt;/li&gt;
+&lt;li&gt;Rich ecosystem: NumPy, SciPy, Matplotlib, Pandas, SymPy, TensorFlow&lt;/li&gt;
+&lt;li&gt;Easy to learn, supported in Jupyter Notebooks&lt;/li&gt;
+&lt;li&gt;Suitable for both numerical computing and machine learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-matlab&#34;&gt;2. &lt;strong&gt;MATLAB&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A specialized language and environment for engineering calculations&lt;/li&gt;
+&lt;li&gt;Convenient for linear algebra, signal processing, and numerical methods&lt;/li&gt;
+&lt;li&gt;Widely used in universities and research institutes&lt;/li&gt;
+&lt;li&gt;Commercial, but has a free alternative — Octave&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-r&#34;&gt;3. &lt;strong&gt;R&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ideal for statistics, bioinformatics, and data analysis&lt;/li&gt;
+&lt;li&gt;Powerful tools for visualization (ggplot2), analysis, and regression&lt;/li&gt;
+&lt;li&gt;Used in social sciences, economics, and ecology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-julia&#34;&gt;4. &lt;strong&gt;Julia&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A modern language combining C-level speed with Python-like simplicity&lt;/li&gt;
+&lt;li&gt;Great for parallel computing and simulations&lt;/li&gt;
+&lt;li&gt;Gaining popularity among mathematicians and engineers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-fortran&#34;&gt;5. &lt;strong&gt;Fortran&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A classic for scientific computing, especially in physics and numerical modeling&lt;/li&gt;
+&lt;li&gt;Still used in meteorology, hydrodynamics, and PDE calculations&lt;/li&gt;
+&lt;li&gt;Very fast, but less convenient in terms of syntax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-cc&#34;&gt;6. &lt;strong&gt;C/C++&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Suitable for tasks requiring maximum performance&lt;/li&gt;
+&lt;li&gt;Commonly used to build libraries callable from Python/Fortran&lt;/li&gt;
+&lt;li&gt;More complex to develop with, but offers full control over computations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-typical-application-areas&#34;&gt;🌐 Typical Application Areas&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Language&lt;/th&gt;
+          &lt;th&gt;Application Area&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Python&lt;/td&gt;
+          &lt;td&gt;General science, AI, visualization, data processing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;MATLAB&lt;/td&gt;
+          &lt;td&gt;Engineering, modeling, control systems&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;R&lt;/td&gt;
+          &lt;td&gt;Statistics, medicine, bioinformatics&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Julia&lt;/td&gt;
+          &lt;td&gt;Physics, finance, high-performance computing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fortran&lt;/td&gt;
+          &lt;td&gt;Aerodynamics, climatology, hydrodynamics&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;C++&lt;/td&gt;
+          &lt;td&gt;Computational physics, simulations, GPU computing&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-choose-a-language&#34;&gt;⚖️ How to Choose a Language?&lt;/h2&gt;
+&lt;p&gt;The choice depends on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💼 Task type: data processing, modeling, statistics&lt;/li&gt;
+&lt;li&gt;📚 Available libraries and tools&lt;/li&gt;
+&lt;li&gt;🧑‍🔬 Your experience: do you need low-level control?&lt;/li&gt;
+&lt;li&gt;⏱ Time: is development or execution speed more critical?&lt;/li&gt;
+&lt;li&gt;🧩 Integration: will it interact with other languages or systems?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For beginners in scientific fields, &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;R&lt;/strong&gt; are usually recommended — they are well-documented, easy to learn, and widely supported by scientific communities.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are &lt;strong&gt;tools for discovering new knowledge&lt;/strong&gt;. They enable you to automate calculations, visualize phenomena, simulate processes, and deeply analyze data.&lt;/p&gt;
+&lt;p&gt;Choosing the right language depends on your goals and preferences, but the key is to understand &lt;strong&gt;how&lt;/strong&gt; and &lt;strong&gt;why&lt;/strong&gt; you are using it. And any language can be learned — especially if it helps you do better science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://rsvishnyakov.github.io/en/publication/03/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-why-do-you-need-a-presentation&#34;&gt;🧭 Why Do You Need a Presentation?&lt;/h2&gt;
+&lt;p&gt;A presentation is &lt;strong&gt;visual support for a spoken performance&lt;/strong&gt;, helping to convey the main idea, structure the information, and hold the audience’s attention. In academic and scientific settings, it often accompanies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;defense of term or thesis projects;&lt;/li&gt;
+&lt;li&gt;conference talks;&lt;/li&gt;
+&lt;li&gt;seminars and workshops;&lt;/li&gt;
+&lt;li&gt;progress reports.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A good presentation is &lt;strong&gt;not just slides with text&lt;/strong&gt; — it&amp;rsquo;s a communication tool that makes complex ideas clear and important points memorable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-structure-of-a-presentation&#34;&gt;📐 Structure of a Presentation&lt;/h2&gt;
+&lt;p&gt;Every presentation should have a logical and complete structure. A classic scheme includes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title slide&lt;/strong&gt; — topic, speaker’s name, date, institution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt; — goals, relevance, problem statement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methods and approach&lt;/strong&gt; — how the problem is being solved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt; — graphs, tables, observations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion and outlook&lt;/strong&gt; — achievements and potential improvements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acknowledgments / Questions&lt;/strong&gt; — wrap-up and openness to discussion.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each slide should &lt;strong&gt;answer a specific question&lt;/strong&gt; and not be overloaded with information.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools-for-creating-presentations&#34;&gt;🛠 Tools for Creating Presentations&lt;/h2&gt;
+&lt;p&gt;There are many tools available for making slides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PowerPoint&lt;/strong&gt; — a classic for Windows, with extensive formatting capabilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — great for online collaboration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canva&lt;/strong&gt; — visually appealing templates, ideal for beginners.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keynote&lt;/strong&gt; — Apple&amp;rsquo;s presentation tool for macOS users.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX (Beamer)&lt;/strong&gt; — suited for academic presentations with math.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reveal.js&lt;/strong&gt; — web-based HTML/JavaScript presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Choose your tool depending on your goals, audience, and style — from simplicity and elegance to academic rigor.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-design-guidelines&#34;&gt;🎨 Design Guidelines&lt;/h2&gt;
+&lt;p&gt;Good design influences how your content is perceived. Here are some basic tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Minimal text&lt;/strong&gt; — no more than 6–7 lines per slide.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consistent style&lt;/strong&gt; — one color palette, one font, aligned elements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contrast&lt;/strong&gt; — light text on a dark background, or vice versa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infographics and diagrams&lt;/strong&gt; — replace long paragraphs or tables with visuals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sans-serif fonts&lt;/strong&gt; — more readable (Arial, Calibri, Open Sans).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avoid effects and animations&lt;/strong&gt; unless truly necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each slide should be &lt;strong&gt;a cue, not a script&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-present-effectively&#34;&gt;🗣 How to Present Effectively&lt;/h2&gt;
+&lt;p&gt;Preparation is more important than the slides themselves. To stay confident:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Know your material &lt;strong&gt;well enough to explain it without notes&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Don’t read from the slides — &lt;strong&gt;speak naturally&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Rehearse in front of a mirror or a test audience.&lt;/li&gt;
+&lt;li&gt;Manage your time: 1 minute ≈ 1 slide.&lt;/li&gt;
+&lt;li&gt;Use a pointer, gestures, and make eye contact.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A presentation is &lt;strong&gt;a story, not a PDF reading session&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;Presentation-making is a skill useful in any field. It combines &lt;strong&gt;analysis, design, and communication&lt;/strong&gt;. A great presentation amplifies your voice, emphasizes your message, and makes your performance memorable.&lt;/p&gt;
+&lt;p&gt;Follow the structure, consider your audience, and speak sincerely — and your slides will truly work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 2</title>
+      <link>https://rsvishnyakov.github.io/en/post/02/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-of-may-27--june-2&#34;&gt;📅 Week of May 27 – June 2&lt;/h2&gt;
+&lt;p&gt;The busiest week of the month — the first assessments have begun.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 &lt;strong&gt;Programming&lt;/strong&gt;: Took a written test — the task was to implement a simple text editor in C++. There were many bugs at first, but I worked through them and even got an &amp;ldquo;A&amp;rdquo;!&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;Mathematical Logic&lt;/strong&gt;: Passed a midterm. The questions involved logic algebra, disjunctive normal forms, and the resolution method. It was tough, but preparation paid off.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: Continued working with derivatives. We started studying applications — extrema, inflection points, and graph concavity.&lt;/li&gt;
+&lt;li&gt;🏃‍♂️ &lt;strong&gt;Physical Education&lt;/strong&gt;: Took a fitness test and participated in team competitions in the gym. Working on endurance and consistency.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://rsvishnyakov.github.io/en/publication/02/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-is-a-markup-language&#34;&gt;🧾 What Is a Markup Language?&lt;/h2&gt;
+&lt;p&gt;A &lt;strong&gt;markup language&lt;/strong&gt; is a way to structure text using special commands and tags that define how the content should look or be organized. Unlike regular word processors where formatting is visible immediately (WYSIWYG), markup languages describe &lt;strong&gt;structure and semantics&lt;/strong&gt;, and the visual result appears after compilation.&lt;/p&gt;
+&lt;p&gt;Examples of markup languages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — the foundation of web pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — a simple format for notes and blogs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — a powerful tool for scientific and technical document preparation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-latex&#34;&gt;✍️ What Is LaTeX?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; (pronounced “Lay-tech” or “Lah-tech”) is a document preparation system widely used in scientific and technical communities. It is based on a set of commands used by the author to describe document content: headings, formulas, tables, lists, bibliography, and more.&lt;/p&gt;
+&lt;p&gt;Unlike Word or Google Docs, LaTeX doesn’t provide a visual interface. Instead, you write the &lt;strong&gt;source code&lt;/strong&gt; of the document and then compile it into a PDF or another format. This approach offers &lt;strong&gt;precision, consistency, and full control&lt;/strong&gt; over formatting.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-do-scientists-use-latex&#34;&gt;🎓 Why Do Scientists Use LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX has become the de facto standard in academia and engineering. Here’s why:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧮 &lt;strong&gt;Ideal for formulas&lt;/strong&gt; — excellent support for mathematical notation and complex expressions&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Reference and bibliography management&lt;/strong&gt; — automatic bibliography generation&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Flexible and extensible&lt;/strong&gt; — a wide range of packages for charts, diagrams, tables, algorithms&lt;/li&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Professional appearance&lt;/strong&gt; — clean, symmetrical, and typographically accurate documents&lt;/li&gt;
+&lt;li&gt;🛠 &lt;strong&gt;Automation&lt;/strong&gt; — automatic numbering, table of contents, cross-references, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-latex-used&#34;&gt;🧠 Where Is LaTeX Used?&lt;/h2&gt;
+&lt;p&gt;LaTeX is used in many areas, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research papers and dissertations&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical documentation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture notes and educational materials&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Presentations (via Beamer)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Books and reports&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mathematical formulas in blogs and forums (e.g., using MathJax)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-start-using-latex&#34;&gt;📦 How to Start Using LaTeX?&lt;/h2&gt;
+&lt;p&gt;To get started with LaTeX, you’ll need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;A compiler&lt;/strong&gt; — such as TeX Live, MiKTeX, or Overleaf (online)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;An editor&lt;/strong&gt; — TeXstudio, VS Code with LaTeX extensions, or an online interface&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A template&lt;/strong&gt; — start with a basic structure or use templates from universities or journals&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You write the document in a &lt;code&gt;.tex&lt;/code&gt; file, compile it, and receive a professionally formatted PDF as output.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages-and-disadvantages&#34;&gt;🔄 Advantages and Disadvantages&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Advantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Excellent visual quality of documents&lt;/li&gt;
+&lt;li&gt;Support for all mathematical symbols&lt;/li&gt;
+&lt;li&gt;Convenient for creating large documents&lt;/li&gt;
+&lt;li&gt;Versatile and stable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disadvantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Steep learning curve&lt;/li&gt;
+&lt;li&gt;No WYSIWYG interface&lt;/li&gt;
+&lt;li&gt;Requires learning command syntax&lt;/li&gt;
+&lt;li&gt;Can be complex to set up for beginners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;LaTeX is more than just a markup language — it’s a philosophy of writing scientific and technical documents. It takes time to learn, but in return it provides high quality and full control over your content. For students, postgraduates, and researchers, knowing LaTeX is a valuable skill.&lt;/p&gt;
+&lt;p&gt;If you want to format your academic work professionally, LaTeX is your best companion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Continuous Deployment (CI/CD)</title>
+      <link>https://rsvishnyakov.github.io/en/publication/01/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-cicd&#34;&gt;🔧 What Is CI/CD?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; refers to two key components of modern DevOps culture:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CI (Continuous Integration)&lt;/strong&gt; — automatically building and testing code every time a change is committed to the repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CD (Continuous Delivery / Deployment)&lt;/strong&gt; — automatically delivering updates to testing or production environments without manual intervention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is to &lt;strong&gt;accelerate the software delivery lifecycle&lt;/strong&gt;, reduce errors, and make the release process as reliable and predictable as possible.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-it-important&#34;&gt;🚀 Why Is It Important?&lt;/h2&gt;
+&lt;p&gt;CI/CD helps to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧪 &lt;strong&gt;Catch bugs early&lt;/strong&gt; through automatic testing after every commit&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Reduce manual tasks&lt;/strong&gt; — builds, deployments, and publishing are automated&lt;/li&gt;
+&lt;li&gt;🔁 &lt;strong&gt;Ensure process consistency&lt;/strong&gt; — the same outcome at every stage of the pipeline&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Accelerate time-to-market&lt;/strong&gt; — thanks to rapid iteration and automation&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Simplify team collaboration&lt;/strong&gt; — each developer sees whether their code works and doesn’t break others’ changes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-components-of-cicd&#34;&gt;🧱 Core Components of CI/CD&lt;/h2&gt;
+&lt;p&gt;A typical CI/CD pipeline includes the following stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Push/Commit&lt;/strong&gt; — the developer pushes changes to the repository&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build (CI)&lt;/strong&gt; — the system builds the project and installs dependencies&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test (CI)&lt;/strong&gt; — unit, integration, or end-to-end tests are executed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Package&lt;/strong&gt; — upon successful testing, an artifact is created (e.g., a Docker image)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deploy (CD)&lt;/strong&gt; — the artifact is automatically deployed to a test or production environment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These steps are defined in configuration files (e.g., &lt;code&gt;.yaml&lt;/code&gt;), where you specify the sequence, triggers, and environment variables.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-cicd-tools&#34;&gt;🔧 Popular CI/CD Tools&lt;/h2&gt;
+&lt;p&gt;Here are the most widely used tools for building CI/CD pipelines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — built into GitHub, ideal for open-source and smaller projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — powerful and integrated into GitLab’s ecosystem, great for enterprise use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — flexible and widely used in large organizations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt;, &lt;strong&gt;Travis CI&lt;/strong&gt;, &lt;strong&gt;Azure DevOps&lt;/strong&gt;, &lt;strong&gt;Bitbucket Pipelines&lt;/strong&gt; — alternatives with varying degrees of automation and platform support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-cicd-used&#34;&gt;📦 Where Is CI/CD Used?&lt;/h2&gt;
+&lt;p&gt;CI/CD is used across a variety of domains:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web development (auto-deploying websites, APIs, microservices)&lt;/li&gt;
+&lt;li&gt;Mobile development (automated app builds)&lt;/li&gt;
+&lt;li&gt;Data science (model training, automated pipeline execution)&lt;/li&gt;
+&lt;li&gt;Game development (fast build delivery)&lt;/li&gt;
+&lt;li&gt;Cloud and containerized platforms (e.g., with Docker + Kubernetes)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-things-to-keep-in-mind&#34;&gt;⚠️ Things to Keep in Mind&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CI/CD does not replace testing — it &lt;strong&gt;runs&lt;/strong&gt; the tests, but &lt;strong&gt;you&lt;/strong&gt; ensure their quality&lt;/li&gt;
+&lt;li&gt;Without a well-configured pipeline, release control can be lost&lt;/li&gt;
+&lt;li&gt;Clearly separate &lt;strong&gt;environments&lt;/strong&gt;: testing, staging, production&lt;/li&gt;
+&lt;li&gt;Secrets (keys, passwords) must be stored securely as environment variables&lt;/li&gt;
+&lt;li&gt;CI/CD is a &lt;strong&gt;process, not a button&lt;/strong&gt; — it requires planning and gradual development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD is the foundation of modern development: &lt;strong&gt;short iterations, frequent delivery, automation of everything possible&lt;/strong&gt;. These practices allow teams to deliver value to users faster and more reliably, while reducing risks and improving quality control.&lt;/p&gt;
+&lt;p&gt;If you’re not using CI/CD yet — now is the time to start. Even simple automation of builds and tests brings significant stability and productivity gains.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 1</title>
+      <link>https://rsvishnyakov.github.io/en/post/01/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-of-may-2026&#34;&gt;📅 Week of May 20–26&lt;/h2&gt;
+&lt;p&gt;This week was marked by active preparation for the upcoming exam session.&lt;br&gt;
+Here’s what I managed to accomplish:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Programming&lt;/strong&gt;: We explored recursion and implemented our first merge sort algorithms. It wasn’t easy at first, but after several hands-on sessions things became much clearer.&lt;/li&gt;
+&lt;li&gt;📐 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: Finished the topic of limits and moved on to derivatives. Worked on problems with parameters and focused on graphical interpretations of functions.&lt;/li&gt;
+&lt;li&gt;🔎 &lt;strong&gt;Mathematical Logic&lt;/strong&gt;: Built logical expressions, got familiar with normal forms, and completed our first homework on formula transformations.&lt;/li&gt;
+&lt;li&gt;🏃 &lt;strong&gt;Physical Education&lt;/strong&gt;: Completed a 1000-meter run and participated in strength and flexibility testing. Took part in a team relay — not a bad result!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rsvishnyakov.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://rsvishnyakov.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://rsvishnyakov.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

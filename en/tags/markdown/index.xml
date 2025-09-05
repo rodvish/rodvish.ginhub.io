@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Rodion Vishnyakov</title>
+    <link>https://rsvishnyakov.github.io/en/tags/markdown/</link>
+      <atom:link href="https://rsvishnyakov.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rsvishnyakov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://rsvishnyakov.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Study Week 5</title>
+      <link>https://rsvishnyakov.github.io/en/post/05/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-1723&#34;&gt;📅 Week of June 17–23&lt;/h2&gt;
+&lt;p&gt;Final week of the academic year. Time to sum things up:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 All grades are in: “excellent” in programming and math, “good” in logic. Very satisfied!&lt;/li&gt;
+&lt;li&gt;✍️ Took short notes for each subject to preserve the structure of knowledge.&lt;/li&gt;
+&lt;li&gt;🧹 Cleaned up my folders and organized all study materials.&lt;/li&gt;
+&lt;li&gt;💡 Started planning the summer: aiming to dive deeper into Python and improve my SQL and data analysis skills.&lt;/li&gt;
+&lt;li&gt;☀️ A bit of rest — walks, books, and recharging for the next semester!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Personal Academic Website with Hugo Academic</title>
+      <link>https://rsvishnyakov.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;why-do-researchers-need-a-personal-website&#34;&gt;Why Do Researchers Need a Personal Website?&lt;/h2&gt;
+&lt;p&gt;In today’s academic world, &lt;strong&gt;digital presence&lt;/strong&gt; is becoming an essential part of a researcher&amp;rsquo;s career. A personal website helps you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Present yourself and your research to the world&lt;/li&gt;
+&lt;li&gt;🔬 Organize your publications, projects, and achievements&lt;/li&gt;
+&lt;li&gt;🌐 Provide open access to materials, articles, and presentations&lt;/li&gt;
+&lt;li&gt;🧑‍🔬 Showcase academic activity and research interests&lt;/li&gt;
+&lt;li&gt;🎯 Facilitate contact with colleagues, students, and grant agencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s not just an academic portfolio — it&amp;rsquo;s a strategic tool for online visibility and career growth.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-hugo-academic&#34;&gt;Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is a modern framework for building academic websites based on the Hugo static site generator. Its key advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Speed&lt;/strong&gt;: generates your site in seconds, easily deployable to GitHub Pages, Netlify, etc.&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Flexibility&lt;/strong&gt;: site structure can be adapted to publications, courses, events, projects, and blogging&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Academic Focus&lt;/strong&gt;: built-in support for BibTeX, publication filters, visual CVs, and achievements&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Beautiful and responsive design&lt;/strong&gt; out of the box&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Low maintenance&lt;/strong&gt;: no server-side dependencies, secure, and version-controlled via Git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unlike heavy CMSs like WordPress, Academic is lightweight, secure, and easy to maintain.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-sections-of-the-website&#34;&gt;Key Sections of the Website&lt;/h2&gt;
+&lt;p&gt;A typical academic website built with Hugo Academic includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home page&lt;/strong&gt;: brief intro, status, photo, and contact info&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biography&lt;/strong&gt;: education, research interests, ongoing projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: articles list with filtering and export options&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: courses, seminars, lecture notes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt;: research and grant initiatives&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt;: notes, commentary, announcements, collaborations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact and Social&lt;/strong&gt;: email, ORCID, GitHub, Google Scholar, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All these sections are customizable and can be styled either classically or with modern design.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-do-you-need-to-get-started&#34;&gt;What Do You Need to Get Started?&lt;/h2&gt;
+&lt;p&gt;To create your Hugo Academic site, you’ll need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;A GitHub account&lt;/strong&gt; — to store and version your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A code editor&lt;/strong&gt; — e.g., VS Code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hugo installed&lt;/strong&gt; — along with the Academic template&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content written&lt;/strong&gt; in Markdown and YAML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A hosting platform&lt;/strong&gt; — like GitHub Pages or Netlify (both free)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Academic offers starter templates to launch quickly — you can set up your site in a few hours and use it as your academic journal or portfolio.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;who-is-it-for&#34;&gt;Who Is It For?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Students, master’s, and PhD candidates&lt;/strong&gt;: a site helps you stand out when applying for internships, grants, or international programs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Young educators and researchers&lt;/strong&gt;: a place for sharing courses, project proposals, publications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Established academics&lt;/strong&gt;: digitize your paper-based portfolio and share insights through a blog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A well-maintained, up-to-date website sends a strong message: you’re open to collaboration and take your academic identity seriously.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating a personal academic website is more than a trend — it’s a tool for self-definition and growth. With &lt;strong&gt;Hugo Academic&lt;/strong&gt;, you get a powerful, lightweight, and flexible platform to share your scientific work with the world.&lt;/p&gt;
+&lt;p&gt;Don’t wait — build your academic site today and take control of your digital scholarly presence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 4</title>
+      <link>https://rsvishnyakov.github.io/en/post/04/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-1016&#34;&gt;📅 Week of June 10–16&lt;/h2&gt;
+&lt;p&gt;🔥 Peak of the exam session — three exams in one week!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: The exam went smoothly. It included problems on integrals, series, and function behavior analysis. All the preparation paid off!&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;Programming&lt;/strong&gt;: The exam was in the form of a design task — we had to build a mini-CRM with filtering and sorting capabilities. I used structures and pointers.&lt;/li&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Mathematical Logic&lt;/strong&gt;: A tough exam with problems on proofs and logical calculi. It required not only knowledge but also quick thinking.&lt;/li&gt;
+&lt;li&gt;🧘 &lt;strong&gt;Physical Education&lt;/strong&gt;: No classes this week, but light activities like park runs and stretching between exams really helped to reduce stress.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 3</title>
+      <link>https://rsvishnyakov.github.io/en/post/03/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-of-june-39&#34;&gt;📅 Week of June 3–9&lt;/h2&gt;
+&lt;p&gt;Final exam season is approaching — time to wrap up the main topics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Programming&lt;/strong&gt;: Completed a lab on working with files and data structures. The submission was done on a computer using VS Code and the terminal.&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: Took a mock exam — problems on integrals, substitution method, and integration by parts. Reviewing mistakes and refreshing the theory.&lt;/li&gt;
+&lt;li&gt;🔍 &lt;strong&gt;Logic&lt;/strong&gt;: Studying predicate calculus and quantifiers. The material is complex but very structured. Started using LaTeX to format solutions.&lt;/li&gt;
+&lt;li&gt;🏋️ &lt;strong&gt;Physical Education&lt;/strong&gt;: Last week of training. Passed the final test: a set of agility exercises and a timed run. Final grade — ✔️&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 2</title>
+      <link>https://rsvishnyakov.github.io/en/post/02/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-of-may-27--june-2&#34;&gt;📅 Week of May 27 – June 2&lt;/h2&gt;
+&lt;p&gt;The busiest week of the month — the first assessments have begun.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 &lt;strong&gt;Programming&lt;/strong&gt;: Took a written test — the task was to implement a simple text editor in C++. There were many bugs at first, but I worked through them and even got an &amp;ldquo;A&amp;rdquo;!&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;Mathematical Logic&lt;/strong&gt;: Passed a midterm. The questions involved logic algebra, disjunctive normal forms, and the resolution method. It was tough, but preparation paid off.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: Continued working with derivatives. We started studying applications — extrema, inflection points, and graph concavity.&lt;/li&gt;
+&lt;li&gt;🏃‍♂️ &lt;strong&gt;Physical Education&lt;/strong&gt;: Took a fitness test and participated in team competitions in the gym. Working on endurance and consistency.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week 1</title>
+      <link>https://rsvishnyakov.github.io/en/post/01/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rsvishnyakov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-of-may-2026&#34;&gt;📅 Week of May 20–26&lt;/h2&gt;
+&lt;p&gt;This week was marked by active preparation for the upcoming exam session.&lt;br&gt;
+Here’s what I managed to accomplish:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 &lt;strong&gt;Programming&lt;/strong&gt;: We explored recursion and implemented our first merge sort algorithms. It wasn’t easy at first, but after several hands-on sessions things became much clearer.&lt;/li&gt;
+&lt;li&gt;📐 &lt;strong&gt;Mathematical Analysis&lt;/strong&gt;: Finished the topic of limits and moved on to derivatives. Worked on problems with parameters and focused on graphical interpretations of functions.&lt;/li&gt;
+&lt;li&gt;🔎 &lt;strong&gt;Mathematical Logic&lt;/strong&gt;: Built logical expressions, got familiar with normal forms, and completed our first homework on formula transformations.&lt;/li&gt;
+&lt;li&gt;🏃 &lt;strong&gt;Physical Education&lt;/strong&gt;: Completed a 1000-meter run and participated in strength and flexibility testing. Took part in a team relay — not a bad result!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
